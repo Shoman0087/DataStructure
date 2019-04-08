@@ -1,0 +1,39 @@
+
+
+.root {
+	-fx-background-color: radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(240,255,123) 0.0, rgb(171,252,80) 100.0 );
+	 -fx-font-family: "Lucida Bright", Georgia, serif;
+	 -fx-font-weight: bold;
+}
+
+.text-field {
+	-fx-background-radius: 10;
+	-fx-opacity: 0.5;
+}
+
+
+
+.button {
+	
+	-fx-background-color: linear-gradient( from 100.0% 50.0% to 100.0% 100.0%, rgb(226,255,116) 0.0, rgb(255,244,140) 100.0);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 9,8,5,4,3;
+    -fx-padding: 5 50 5 50;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(0,0,0);
+     -fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.2) , 1, 0.0 , 0 , 1);
+}
+.button:pressed {
+    -fx-padding: 8 50 2 50;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+.button:hover {
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #32CD32 0%, #00FF7F 100%),
+        #008000,
+        #9ACD32,
+        radial-gradient(center 50% 50%, radius 100%, #98FB98, #ADFF2F);
+}

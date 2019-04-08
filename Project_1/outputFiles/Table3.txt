@@ -1,0 +1,27 @@
+Course Name                                                  ID                   Start Time           End Time             Max Number of Students    Current Number      
+Introduction to programming                                  COMP133              11:00                11:50                27                        7                   
+INTRODUCTION TO GRADUATION PROJECT                           COMP411              08:00                08:50                10                        6                   
+Data Structures Java                                         COMP242              12:00                12:50                30                        5                   
+INTRODUCTION TO COMPUTER                                     COMP121              09:30                10:20                15                        7                   
+INTRODUCTION TO COMPUTER                                     COMP122              08:00                08:20                20                        5                   
+COMPUTER AND PROGRAMMING                                     COMP142              14:00                16:50                12                        4                   
+DISCRETE MATHEMATICS                                         COMP233              08:00                08:50                10                        5                   
+LINUX OPERATING SYSTEMS LAB                                  COMP311              12:00                12:50                7                         7                   
+ARTIFICIAL INTELLIGENCE                                      COMP338              12:00                12:50                10                        3                   
+COMPILER CONSTRUCTION                                        COMP439              08:00                08:50                10                        5                   
+Algorithms                                                   COMP336              13:00                13:50                30                        7                   
+COMPUTER AND PROGRAMMING                                     COMP230              11:00                11:50                13                        3                   
+DATA STRUCTURES                                              COMP2321             10:00                10:50                13                        2                   
+DATA STRUCTURES                                              COMP232              13:00                13:50                15                        3                   
+CONTENT CREATION AND LEVEL DESIGN                            COMP3361             10:00                10:20                12                        3                   
+GRADUATION PROJECT                                           COMP422              11:30                12:20                20                        2                   
+INTRODUCTION TO COMPUTERS AND COMPUTING ETHICS               COMP131              14:00                15:50                25                        3                   
+ADVANCED PROGRAMMING                                         COMP231              08:00                10:50                24                        2                   
+SERIOUS GAMING ((SG) FUNDAMENTALS                            COMP2331             11:30                12:20                20                        2                   
+HUMAN COMPUTER INTERACTION                                   COMP332              13:20                14:50                9                         0                   
+WEB APPLICATION AND TECHNOLOGY                               COMP334              09:00                09:50                15                        2                   
+SOFTWARE ENGINEERING                                         COMP433              09:00                09:50                15                        0                   
+DATABASE SYSTEMS                                             COMP333              12:00                12:50                10                        0                   
+ANIMATION                                                    COMP3351             10:00                10:50                10                        1                   
+OPERATING SYSTEMS                                            COMP431              08:00                08:50                10                        0                   
+COMPUTER SECURITY                                            COMP432              14:00                16:50                12                        1                   

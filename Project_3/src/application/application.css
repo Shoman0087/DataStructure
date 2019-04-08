@@ -1,0 +1,98 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#leftBox {
+
+    -fx-border-style: solid inside;
+    -fx-border-width: 10;
+    -fx-border-radius: 0;
+    -fx-border-color: radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(179,179,179) 0.0, rgb(242,242,242) 100.0 );
+    -fx-background-color: radial-gradient( focus-angle 0.0deg, focus-distance 50.0%, center 50.0% 40.0%, radius 100.0%, rgb(179,179,179) 0.0, rgb(128,128,128) 100.0 )
+}
+
+#leftBox .button {
+	-fx-background-color:radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(128,77,128) 0.0, rgb(51,0,51) 100.0 );
+	-fx-pref-height: 40px;
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-text-fill: rgb(255,255,255);
+}
+
+#leftBox .button:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#leftBox .button:hover {
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #663399 0%, #4B0082 100%),
+
+        radial-gradient(center 50% 50%, radius 60%, #55475b, #40066b);
+}
+
+.table-view{
+   -fx-background-color: #800080;
+   -fx-font-weight: bold;
+   
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient( from 50.0% 0.0% to 50.0% 80.0%, rgb(77,26,77) 0.0, rgb(128,77,128) 100.0);
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: white;
+   
+}
+
+.table-row-cell{
+    -fx-background-color:  	radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(128,128,128) 0.0, rgb(102,51,102) 100.0 );
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em; /* 0 */
+}
+
+.table-row-cell:odd{
+    -fx-background-color:  	radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(128,77,128) 0.0, rgb(51,0,51) 100.0 );
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em; /* 0 */  
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #005797;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}
+
+.root {
+	-fx-background-color: linear-gradient( from 0.0% 0.0% to 100.0% 100.0%, rgb(179,179,179) 0.0, rgb(230,230,230) 100.0)l
+}
+.label {
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+	-fx-text-fill: radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(128,77,128) 0.0, rgb(51,0,51) 100.0 );
+
+}
+
+#text {
+	-fx-font-size: 23;
+	-fx-text-fill: radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(128,77,128) 0.0, rgb(51,0,51) 100.0 );
+}
+
+
+
+
+
+
+
